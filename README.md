@@ -9,3 +9,4 @@ việc truy xuất hàm khởi dựng bằng cách gán cho nó một truy cập
 
 >**Note:** Mấu flyweight có hạn chế là bạn sẽ mất thêm thời gian để cài đặt một đối tượng flyweight và nếu bạn phải cài đặt bao bọc mọi thứ, bạn có thể sẽ làm giảm hiệu năng hệ thống nhiều hơn mong đợi. Một hạn chế nữa là: bởi vì bạn tách một lớp mẫu chung ra khỏi đối tượng để tạo flyweight, bạn phải thêm vào một lớp khác trong việc lập trình, và có thể gây ra sự khó khăn trong việc bảo trì và mở rộng. 
  
+ 
